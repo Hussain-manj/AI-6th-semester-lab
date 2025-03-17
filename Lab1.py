@@ -53,7 +53,7 @@ print ( type ( z ) )
 print ( w ) ; print ( x )
 
 # String indices and accessing
-string1 = "FAHAD GULZAR"
+string1 = "Hussain Manj"
 
 print ( string1 )
 
